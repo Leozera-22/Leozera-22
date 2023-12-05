@@ -9,6 +9,8 @@
 
 ![Leozera-22 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leozera-22&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leozera-22)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias com mais familiaridade
 
 <div style= "display: inline_block"><br>
